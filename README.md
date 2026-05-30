@@ -10,7 +10,7 @@
 
 - 🔭 Java Backend Developer at **Longbow Technologies**, Hyderabad
 - 💼 **2+ years** of experience building scalable RESTful APIs and backend systems
-- 🌱 Currently deepening expertise in **Microservices, Apache Kafka & CI/CD**
+- 🌱 Currently deepening expertise in **Microservices, Spring Security & MySQL**
 - 🎓 B.Tech in Computer Science & Engineering — Swarnandhra College of Engineering & Technology, JNTUK **(CGPA: 9.47)**
 - 📍 Hyderabad, India
 
@@ -43,7 +43,6 @@
 - 👥 Built role-based modules for **Agents, Doctors, and Employees** for structured access control
 - 📨 Integrated **Apache Kafka** for event-driven notifications and real-time workflows
 - 🗄️ Designed and optimized **MySQL** schemas for doctor profiles, subscriptions, and interaction history
-- 🐳 Deployed via **Docker** containers with automated **CI/CD** pipelines
 - 🛡️ Implemented centralized exception handling, input validation, and structured logging
 
 **Tech Stack:**
@@ -69,13 +68,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasariamrutha3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DasariHemaAmrutha3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasariamrutha3&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasariHemaAmrutha3&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasariamrutha3&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DasariHemaAmrutha3&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
