@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hema Amrutha Dasari 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9E5B&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9E5B&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+MySql;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 - 🛡️ Implemented centralized exception handling, input validation, and structured logging
 
 **Tech Stack:**
-`Java` `Spring Boot` `Spring Security` `JWT` `Hibernate` `MySQL` `Apache Kafka` `Docker` `Git` `Postman`
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Apache Kafka` `Docker` `Git` `Postman`
 
 ---
 
@@ -61,20 +61,20 @@
 - 🔄 Managed codebase and workflows using **Git** and **Docker**
 
 **Tech Stack:**
-`Java` `Spring Boot` `Spring Security` `REST APIs` `MySQL` `Apache Kafka` `Docker` `Git`
+`Java` `Spring Boot` `Spring Security` `MySQL` `Apache Kafka` `Docker` `Git`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DasariHemaAmrutha3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HemaAmruthaDasari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasariHemaAmrutha3&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaAmruthaDasari&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DasariHemaAmrutha3&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -88,13 +88,9 @@
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/dasariamrutha3">
+  <a href="https://github.com/HemaAmruthaDasari">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasariamrutha3&label=Profile+Views&color=2E9E5B&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"><i>"Building backends that scale, secured from the ground up."</i> 🚀</p>
